@@ -40,10 +40,20 @@ I have contributed to a variety of projects, including:
 
 ## Connect with Me
 
-[![Upwork Icon](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f3d4a25746312aa8)
-[![Fiverr Icon](https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/users/ahmii19)
-[![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ahmed-ismail-6418b9148/)
-[![Instagram Icon](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iamahmedismaiil)
-[![WhatsApp Icon](https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923177016196)
+<a href="https://www.upwork.com/freelancers/~01f3d4a25746312aa8" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork Icon">
+</a>
+<a href="https://www.fiverr.com/users/ahmii19" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr Icon">
+</a>
+<a href="https://www.linkedin.com/in/muhammad-ahmed-ismail-6418b9148/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Icon">
+</a>
+<a href="https://instagram.com/iamahmedismaiil" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Icon">
+</a>
+<a href="https://wa.me/923177016196" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Icon">
+</a>
 
 As a full-stack engineer, I'm confident in my ability to meet diverse development needs, whether it's crafting robust backends, building responsive frontends, or integrating complex APIs. I am committed to continuous learning and staying at the forefront of technological advancements.
