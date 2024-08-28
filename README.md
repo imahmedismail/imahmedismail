@@ -18,4 +18,24 @@ Beyond Elixir/Phoenix, I bring extensive experience with:
 - **DevOps:** CI/CD, Docker, Kubernetes, Jenkins, AWS, Azure, GCP
 - **Database Mastery:** MySQL, PostgreSQL, MongoDB, Firebase, Oracle, and more
 
+## Projects
+
+I have contributed to a variety of projects, including:
+
+- [Supertrends](https://www.supertrends.com)
+- [Kinde](https://www.kinde.com)
+- [Picsello](https://www.picsello.com)
+- [African Managers](https://www.africanmanagers.org)
+- [International Lifeline](https://www.internationallifeline.com)
+- [Ryan Project](https://www.ryanprojectapp.com)
+- [Union Connect](https://www.unionconnect.com)
+- [Gogenuity](https://www.gogenuity.com)
+- [QuickCard](https://www.quickcard.me)
+- [Payment Reminder App](https://payment-reminder-app.vercel.app)
+- [AI Image Generator](https://ai-image-generator-2.netlify.app)
+- [Homes Gules](https://homes-gules.vercel.app)
+- [Priority Queue Simulator](https://priority-queue-simulator-two.vercel.app)
+- [Filmpirex](https://filmpirex.netlify.app)
+- [TaskMate](https://za767-taskmate.netlify.app)
+
 As a full-stack engineer, I'm confident in my ability to meet diverse development needs, whether it's crafting robust backends, building responsive frontends, or integrating complex APIs. I am committed to continuous learning and staying at the forefront of technological advancements.
