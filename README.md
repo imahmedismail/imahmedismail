@@ -25,7 +25,7 @@ I have contributed to a variety of projects, including:
 - [Supertrends](https://www.supertrends.com)
 - [Kinde](https://www.kinde.com)
 - [Picsello](https://www.picsello.com)
-- [African Managers](https://www.africanmanagers.org)
+- [African Management Institute](https://www.africanmanagers.org)
 - [International Lifeline](https://www.internationallifeline.com)
 - [Ryan Project](https://www.ryanprojectapp.com)
 - [Union Connect](https://www.unionconnect.com)
@@ -37,5 +37,13 @@ I have contributed to a variety of projects, including:
 - [Priority Queue Simulator](https://priority-queue-simulator-two.vercel.app)
 - [Filmpirex](https://filmpirex.netlify.app)
 - [TaskMate](https://za767-taskmate.netlify.app)
+
+## Connect with Me
+
+- **Upwork:** [Ahmed Ismail on Upwork](https://www.upwork.com/freelancers/~01f3d4a25746312aa8)
+- **Fiverr:** [Ahmed Ismail on Fiverr](https://www.fiverr.com/users/ahmii19)
+- **LinkedIn:** [Muhammad Ahmed Ismail on LinkedIn](https://www.linkedin.com/in/muhammad-ahmed-ismail-6418b9148/)
+- **Instagram:** [@iamahmedismaiil](https://instagram.com/iamahmedismaiil)
+- **WhatsApp:** [+923177016196](https://wa.me/923177016196)
 
 As a full-stack engineer, I'm confident in my ability to meet diverse development needs, whether it's crafting robust backends, building responsive frontends, or integrating complex APIs. I am committed to continuous learning and staying at the forefront of technological advancements.
