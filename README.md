@@ -8,15 +8,23 @@ My primary focus is on the Elixir/Phoenix ecosystem, where I've honed my skills 
 
 In addition to my Elixir/Phoenix expertise, I have a strong foundation in PostgreSQL, cloud storage solutions like S3, and various other technologies. I am well-versed in both functional and object-oriented programming, and my technical toolkit includes Elixir/Erlang, Phoenix LiveViews, GraphQL/Absinthe, ExUnit for unit testing, and Wallaby for concurrent browser testing.
 
-## Full-Stack Proficiency
+## Mainstream Technical Proficiency
 
-Beyond Elixir/Phoenix, I bring extensive experience with:
+I bring extensive experience with:
 
-- **Backend Engineering:** Elixir, RoR, PHP/Laravel, Python, HTTP(s) protocol, RESTful APIs
-- **Frontend Mastery:** TypeScript, VueJS, React, NextJS, Angular, ElectronJS, HTML, CSS, TailwindCSS, jQuery
+- **Backend Engineering:** Elixir
+- **Frontend Mastery:** HTML, CSS, JavaScript, TailwindCSS and Phoenix MVC
 - **API Integration:** Stripe, PayPal, Google APIs, Trello, Jira, and more
-- **DevOps:** CI/CD, Docker, Kubernetes, Jenkins, AWS, Azure, GCP
+- **DevOps:** CI/CD, Docker
 - **Database Mastery:** MySQL, PostgreSQL, MongoDB, Firebase, Oracle, and more
+
+## Part-time Technical Expertise
+
+I bring hands-on experience of following tech as well:
+
+- **Backend Engineering:** RoR, PHP/Laravel, Python, HTTP(s) protocol, RESTful APIs
+- **Frontend Mastery:** TypeScript, VueJS, React, NextJS, Angular, ElectronJS, jQuery
+- **DevOps:** Kubernetes, Jenkins, AWS, Azure, GCP
 
 ## Projects
 
