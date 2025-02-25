@@ -22,7 +22,7 @@ I bring extensive experience with:
 
 I bring hands-on experience of following tech as well:
 
-- **Backend Engineering:** RoR, PHP/Laravel, Python, HTTP(s) protocol, RESTful APIs
+- **Backend Engineering:** RoR, PHP/Laravel, WordPress, Python, HTTP(s) protocol, RESTful APIs
 - **Frontend Mastery:** TypeScript, VueJS, React, NextJS, Angular, ElectronJS, jQuery
 - **DevOps:** Kubernetes, Jenkins, AWS, Azure, GCP
 
