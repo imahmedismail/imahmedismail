@@ -45,6 +45,7 @@ I have contributed to a variety of projects, including:
 - [Priority Queue Simulator](https://priority-queue-simulator-two.vercel.app)
 - [Filmpirex](https://filmpirex.netlify.app)
 - [TaskMate](https://za767-taskmate.netlify.app)
+- [Cloud Bedrock LLC](https://cloudbedrock.com/)
 
 ## Connect with Me
 
